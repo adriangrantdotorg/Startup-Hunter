@@ -7,4 +7,4 @@ Startup Hunter is a Chrome Extension for looking up startups/people at some Link
 Select the text you want to search, right-click, and click on "Startup Hunter" menu item to select the service you want to search. A new tab will be open with the search result.
 
 ## License
-MIT licensed. See [LICENSE](LICENSE.md) for detail
+MIT licensed. See [LICENSE](LICENSE.md) for detail.
