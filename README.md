@@ -4,7 +4,7 @@ Startup Hunter is a Chrome Extension for looking up startups/people at some Link
 ![screenshot](/img/screenshot-of-menu.png)
 
 ## How to Use
-1.  Download the Extension at the [Chrome Web Store](https://chrome.google.com/webstore/detail/eiamjghpecoobmpjbmdkdklficbeghjg/publish-delayed). 
+1.  Download the Extension at the [Chrome Web Store](https://chrome.google.com/webstore/detail/startup-hunter/jedigblikfjmjincbjgichhkmaomclcp). 
 
 2.  Select the text you want to search, right-click, select "Startup Hunter" and click the service you want to search. A new tab will open with the search result.
 
